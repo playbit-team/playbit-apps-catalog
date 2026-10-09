@@ -1,0 +1,54 @@
+{
+  "updatedAt": "2026-10-09",
+  "apps": [
+    {
+      "id": "ec-growthpilot",
+      "name": "EC GrowthPilot",
+      "summary": "AI チャットで質問できるストア分析。顧客の LTV やリピート率を自動で見える化します。",
+      "handle": "ec-growthpilot",
+      "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/ec-growthpilot.png"
+    },
+    {
+      "id": "simple-email-change",
+      "name": "シンプルメールアドレス変更",
+      "summary": "お客様がサイト上で、自分でメールアドレスを変更できるようにします。",
+      "handle": "simple-email-change",
+      "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/simple-email-change.png"
+    },
+    {
+      "id": "simple-slider",
+      "name": "シンプルスライダー",
+      "summary": "スライドショーの3枚表示や、画面いっぱいの表示を簡単に置けます。",
+      "handle": "playbit-simple-slider",
+      "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/simple-slider.png"
+    },
+    {
+      "id": "island-shipping",
+      "name": "Playbit 離島配送",
+      "summary": "配送先の郵便番号で離島を見分けて、チェックアウトに出す送料を自動で出し分けます。",
+      "handle": "",
+      "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/island-shipping.png"
+    },
+    {
+      "id": "delivery-date",
+      "name": "Playbit 配送日時",
+      "summary": "カートで配送希望日と時間帯を選べるようにし、決済の前に確かめます。",
+      "handle": "",
+      "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/delivery-date.png"
+    },
+    {
+      "id": "receipt",
+      "name": "Playbit 領収書",
+      "summary": "注文から領収書・納品書・請求書の PDF を出します。お客様もアカウントから自分で発行できます。",
+      "handle": "",
+      "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/receipt.png"
+    },
+    {
+      "id": "in-store-booking",
+      "name": "Playbit 来店予約",
+      "summary": "ストアの中で空き枠を選んでもらい、そのまま注文として来店予約を受け付けます。",
+      "handle": "",
+      "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/in-store-booking.png"
+    }
+  ]
+}
