@@ -38,5 +38,6 @@ Shopify App Store の要件に合わせています（2026-10-09 時点）。
 ## 読んでいるアプリ
 
 - shopify-app-delivery-date（Playbit 配送日時）
+- shopify-app-cod（Playbit 代引き）
 
 足したら、ここに書き足してください。

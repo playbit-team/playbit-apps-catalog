@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-20",
   "apps": [
     {
       "id": "ec-growthpilot",
@@ -49,6 +49,13 @@
       "summary": "ストアの中で空き枠を選んでもらい、そのまま注文として来店予約を受け付けます。",
       "handle": "",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/in-store-booking.png"
+    },
+    {
+      "id": "cod",
+      "name": "Playbit 代引き",
+      "summary": "代引きを選んだお客さまにだけ代引き手数料をいただけるよう、手数料込みの配送方法を作り、支払い方法「代金引換」を出し分けます。",
+      "handle": "",
+      "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/cod.png"
     }
   ]
 }
