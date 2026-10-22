@@ -1,59 +1,74 @@
 {
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-22",
   "apps": [
     {
       "id": "ec-growthpilot",
       "name": "EC GrowthPilot",
       "summary": "AI チャットで質問できるストア分析。顧客の LTV やリピート率を自動で見える化します。",
+      "summaryEn": "Store analytics you can ask questions in an AI chat. Customer LTV and repeat rate are visualized automatically.",
       "handle": "ec-growthpilot",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/ec-growthpilot.png"
     },
     {
       "id": "simple-email-change",
       "name": "シンプルメールアドレス変更",
+      "nameEn": "Simple Email Change",
       "summary": "お客様がサイト上で、自分でメールアドレスを変更できるようにします。",
+      "summaryEn": "Lets customers change their own email address on your store's site.",
       "handle": "simple-email-change",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/simple-email-change.png"
     },
     {
       "id": "simple-slider",
       "name": "シンプルスライダー",
+      "nameEn": "Simple Slider",
       "summary": "スライドショーの3枚表示や、画面いっぱいの表示を簡単に置けます。",
+      "summaryEn": "Place a three-image slideshow or a full-screen slideshow with ease.",
       "handle": "playbit-simple-slider",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/simple-slider.png"
     },
     {
       "id": "island-shipping",
       "name": "Playbit 離島配送",
+      "nameEn": "Playbit Island Shipping",
       "summary": "配送先の郵便番号で離島を見分けて、チェックアウトに出す送料を自動で出し分けます。",
+      "summaryEn": "Detects remote islands from the delivery postal code and automatically shows the matching shipping rates at checkout.",
       "handle": "",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/island-shipping.png"
     },
     {
       "id": "delivery-date",
       "name": "Playbit 配送日時",
+      "nameEn": "Playbit Delivery Date",
       "summary": "カートで配送希望日と時間帯を選べるようにし、決済の前に確かめます。",
+      "summaryEn": "Lets customers choose a delivery date and time slot in the cart, and checks it before payment.",
       "handle": "",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/delivery-date.png"
     },
     {
       "id": "receipt",
       "name": "Playbit 領収書",
+      "nameEn": "Playbit Receipt",
       "summary": "注文から領収書・納品書・請求書の PDF を出します。お客様もアカウントから自分で発行できます。",
+      "summaryEn": "Creates PDF receipts, delivery notes and invoices from an order. Customers can also issue them themselves from their account.",
       "handle": "",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/receipt.png"
     },
     {
       "id": "in-store-booking",
       "name": "Playbit 来店予約",
+      "nameEn": "Playbit In-store Booking",
       "summary": "ストアの中で空き枠を選んでもらい、そのまま注文として来店予約を受け付けます。",
+      "summaryEn": "Lets customers pick an open slot inside your store and books the in-store visit as an order.",
       "handle": "",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/in-store-booking.png"
     },
     {
       "id": "cod",
       "name": "Playbit 代引き",
+      "nameEn": "Playbit Cash on Delivery",
       "summary": "代引きを選んだお客さまにだけ代引き手数料をいただけるよう、手数料込みの配送方法を作り、支払い方法「代金引換」を出し分けます。",
+      "summaryEn": "Creates a shipping method that includes the cash-on-delivery fee, and shows the \"cash on delivery\" payment method only to customers who choose it.",
       "handle": "",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/cod.png"
     }

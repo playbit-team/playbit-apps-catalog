@@ -4,7 +4,7 @@ Playbit の各 Shopify アプリの管理画面にある「おすすめアプリ
 
 公開先（GitHub Pages）: <https://playbit-team.github.io/playbit-apps-catalog/apps.json>
 
-載せているのは App Store で公開済みの情報だけです（アプリ名・紹介文・ハンドル・アイコン）。
+載せているのは App Store で公開済みの情報だけです（アプリ名・紹介文・ハンドル・アイコン。英語の名前と紹介文も）。
 
 ## 直し方
 
@@ -21,6 +21,7 @@ Shopify App Store の要件に合わせています（2026-10-09 時点）。
 
 - **値段を書かない**（4.2.3）。「無料インストール」も書きません。App Store の掲載ページに任せます。
 - **数字の実績・保証・最上級の表現を書かない**（4.3.3）。「No.1」「唯一」「○%削減」など。
+- 英語の `nameEn`・`summaryEn` にも、同じ決まりを守る（値段・「free」・数字の実績・最上級の表現を書かない）。
 - **公開していないアプリは `handle` を空文字にする**。各アプリは `handle` が空のものを出しません。先に書いておいて、公開したらハンドルを入れるだけにできます。
 
 ## 項目
@@ -29,7 +30,9 @@ Shopify App Store の要件に合わせています（2026-10-09 時点）。
 |---|---|
 | `id` | 小文字の英数字とハイフン、40字まで。アイコンのファイル名にも使う |
 | `name` | 60字まで |
+| `nameEn` | 任意。英語の名前（60字まで）。英語の画面で使う。無ければ `name` |
 | `summary` | 160字まで。一文 |
+| `summaryEn` | 任意。英語の紹介文（160字まで。一文）。英語の画面で使う。**無いアプリは、英語の画面には出ない**（日本語が混ざらないように）。日本語を入れない |
 | `handle` | App Store のハンドル（`https://apps.shopify.com/<handle>`）。未公開は空文字 |
 | `icon` | このリポジトリの `icons/` の URL。各アプリは同じ `id` のアイコンを同梱していれば、そちらを先に使う |
 
@@ -39,5 +42,6 @@ Shopify App Store の要件に合わせています（2026-10-09 時点）。
 
 - shopify-app-delivery-date（Playbit 配送日時）
 - shopify-app-cod（Playbit 代引き）
+- shopify-app-island-shipping（Playbit 離島配送。英語の画面に対応。`nameEn`・`summaryEn` を読む）
 
 足したら、ここに書き足してください。
