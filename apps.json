@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-26",
   "apps": [
     {
       "id": "ec-growthpilot",
@@ -33,7 +33,7 @@
       "nameEn": "Playbit Island Shipping",
       "summary": "配送先の郵便番号で離島を見分けて、チェックアウトに出す送料を自動で出し分けます。",
       "summaryEn": "Detects remote islands from the delivery postal code and automatically shows the matching shipping rates at checkout.",
-      "handle": "",
+      "handle": "playbit-2",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/island-shipping.png"
     },
     {
