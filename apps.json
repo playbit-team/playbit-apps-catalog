@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-11-06",
   "apps": [
     {
       "id": "ec-growthpilot",
@@ -33,7 +33,7 @@
       "nameEn": "Playbit Island Shipping",
       "summary": "配送先の郵便番号で離島を見分けて、チェックアウトに出す送料を自動で出し分けます。",
       "summaryEn": "Detects remote islands from the delivery postal code and automatically shows the matching shipping rates at checkout.",
-      "handle": "playbit-2",
+      "handle": "playbit-island-shipping",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/island-shipping.png"
     },
     {
@@ -66,10 +66,10 @@
     {
       "id": "cod",
       "name": "Playbit 代引き",
-      "nameEn": "Playbit Cash on Delivery",
+      "nameEn": "Playbit COD",
       "summary": "代引きを選んだお客さまにだけ代引き手数料をいただけるよう、手数料込みの配送方法を作り、支払い方法「代金引換」を出し分けます。",
       "summaryEn": "Creates a shipping method that includes the cash-on-delivery fee, and shows the \"cash on delivery\" payment method only to customers who choose it.",
-      "handle": "",
+      "handle": "playbit-cod",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/cod.png"
     }
   ]
