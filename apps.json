@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-10",
   "apps": [
     {
       "id": "ec-growthpilot",
@@ -42,7 +42,7 @@
       "nameEn": "Playbit Delivery Date",
       "summary": "カートで配送希望日と時間帯を選べるようにし、決済の前に確かめます。",
       "summaryEn": "Lets customers choose a delivery date and time slot in the cart, and checks it before payment.",
-      "handle": "",
+      "handle": "playbit-delivery-date",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/delivery-date.png"
     },
     {
