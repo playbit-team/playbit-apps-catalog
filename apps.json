@@ -60,7 +60,7 @@
       "nameEn": "Playbit In-store Booking",
       "summary": "ストアの中で空き枠を選んでもらい、そのまま注文として来店予約を受け付けます。",
       "summaryEn": "Lets customers pick an open slot inside your store and books the in-store visit as an order.",
-      "handle": "",
+      "handle": "playbit-in-store-booking",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/in-store-booking.png"
     },
     {
