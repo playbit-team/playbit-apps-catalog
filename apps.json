@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-17",
   "apps": [
     {
       "id": "ec-growthpilot",
@@ -22,8 +22,8 @@
       "id": "simple-slider",
       "name": "シンプルスライダー",
       "nameEn": "Simple Slider",
-      "summary": "スライドショーの3枚表示や、画面いっぱいの表示を簡単に置けます。",
-      "summaryEn": "Place a three-image slideshow or a full-screen slideshow with ease.",
+      "summary": "セールのバナーに開始と終了の日時を決めておくと、その時刻に自動で表示・非表示が切り替わります。",
+      "summaryEn": "Set a start and end date and time for a sale banner, and it is shown and hidden automatically at those times.",
       "handle": "playbit-simple-slider",
       "icon": "https://playbit-team.github.io/playbit-apps-catalog/icons/simple-slider.png"
     },

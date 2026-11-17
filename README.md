@@ -43,5 +43,8 @@ Shopify App Store の要件に合わせています（2026-10-09 時点）。
 - shopify-app-delivery-date（Playbit 配送日時）
 - shopify-app-cod（Playbit 代引き）
 - shopify-app-island-shipping（Playbit 離島配送。英語の画面に対応。`nameEn`・`summaryEn` を読む）
+- wp-theme-playbit-magazine（PLAYBIT MAGAZINE。`[playbit_apps]` ショートコードで
+  <https://playbit.co.jp/magazine/apps/> と記事下に出す。`summary` がそのまま読者に見える。
+  24時間キャッシュするため、急ぐときは WordPress の `playbit_apps_catalog` トランジェントを消す）
 
 足したら、ここに書き足してください。
